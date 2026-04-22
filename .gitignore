@@ -1,0 +1,4 @@
+*.db
+*.area
+*.log
+simulation/
