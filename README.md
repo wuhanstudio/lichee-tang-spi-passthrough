@@ -1,5 +1,5 @@
 ```
-openFPGALoader -b licheeTang spi-passthrough.bit
+openFPGALoader -b licheeTang -f spi-passthrough.bit
 ```
 
 ```
